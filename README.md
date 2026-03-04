@@ -55,5 +55,5 @@ I contributed primarily to the analytical parts of the project and completed sev
 
 The full system documentation is available here:
 
-[Full documentation (PDF)](IS-bike-rental (2).pdf)
+[Full documentation (PDF)](IS-bike-rental%20(2).pdf)
 
