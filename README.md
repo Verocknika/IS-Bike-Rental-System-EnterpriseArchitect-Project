@@ -51,3 +51,9 @@ I contributed primarily to the analytical parts of the project and completed sev
 - `README.md` — project description  
 
 ---
+## Documentation
+
+The full system documentation is available here:
+
+[Full documentation (PDF)](IS-bike-rental (2).pdf)
+
